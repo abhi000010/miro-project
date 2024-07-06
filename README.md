@@ -29,7 +29,7 @@
 
 ### 4. Save and Secure:
 
-- Save the changes to the `.env.local` file.
+1. Save the changes to the `.env.local` file.
 
 2. Install Project Dependencies using `npm install --legacy-peer-deps` or `yarn install --legacy-peer-deps`.
 
